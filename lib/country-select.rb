@@ -72,7 +72,7 @@ module ActionView
         "United States", "United States Minor Outlying Islands", "Uruguay", "Uzbekistan", "Vanuatu",
 				"Venezuela, Bolivarian Republic of", "Viet Nam", "Virgin Islands, British", "Virgin Islands, U.S.",
 				"Wallis and Futuna", "Western Sahara", "Yemen", "Zambia", "Zimbabwe", "UAE", "CEE", "Europa", "Benelux",
-        "Scandinavia", "Asia", "Middle East", "Africa", "Maghreb", "East Europa"] unless const_defined?("COUNTRIES")
+        "Scandinavia", "Asia", "Middle East", "Africa", "Maghreb", "East Europa", "North Europa"] unless const_defined?("COUNTRIES")
     end
 
     class InstanceTag
